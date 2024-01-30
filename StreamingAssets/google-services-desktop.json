@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "346677929000",
+    "firebase_url": "https://xlriproject-8d8e2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "xlriproject-8d8e2",
+    "storage_bucket": "xlriproject-8d8e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346677929000:android:acfec120ab28346773011d",
+        "android_client_info": {
+          "package_name": "com.xlri.xlriproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAynqJjx9kg8h09UObgo_gpH7hPQXwDUls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
